@@ -1,5 +1,9 @@
 # FUNPLAYER-DISTRIBUTION
-This Repo consist of exe of funplayer
+This Repo consists of an .exe of a funplayer. 
+To use this Application first download this Repo as a zip then extract it in a folder and finally double click on the exe. 
+
+⚠ Caution - 
+note do not delete the files and folder along with the zip file.
 
 # Shortcuts
 
