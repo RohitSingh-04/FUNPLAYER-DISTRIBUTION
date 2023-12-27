@@ -1,55 +1,30 @@
 # FUNPLAYER-DISTRIBUTION
 This Repo consist of exe of funplayer
-/*----------------------------------------------------------
 
-                        shortcuts -                        |
-----------------------------------------------------------*/
+# Shortcuts
 
- # -> , right arrow key can run function nextsong.
 
- # <- , left arrow key can operate function previous song.
+  <kbd>&#8594;</kbd> , right arrow key can operate function nextsong.
 
- # space bar, is used to play pause the song.
+  <kbd>&#8592;</kbd>, left arrow key can operate the function of the previous song.
 
- # ^ , up arrow key is used to increase the volume.
+  <kbd>space bar</kbd>, is used to play or pause the song.
 
- # V , down arrow key is is used to decrease the volume.
+  <kbd>&#8593;</kbd> , the up arrow key is used to increase the volume.
 
- /* -----------------------------------------------------------
-                        features -                            |
- -------------------------------------------------------------*/
+  <kbd>&#8595;</kbd>, the down arrow key is used to decrease the volume.
 
- # scrolling up the mouse whell while putting cursor in volume scale increases the volume of player
+
+# Features
+
+ * scrolling up the mouse wheel while putting the cursor in the volume scale increases the volume of the player 
+  
+ * Scrolling down the mouse wheel while putting the cursor in the volume scale decreases the volume of the player
  
- # scrolling down the mouse whell while putting cursor in volume scale decreases the volume of player
+ * Scrolling up the mouse wheel while putting the cursor in the progress bar increases the played length and percentage and sets the song to play from that new point.
  
- # scrolling up the mouse whell while putting cursor in progress bar increases the played length and played percentage and set the song to play from that new point.
- 
- # scrolling down the mouse whell while putting cursor in progress bar decreases the played length and played percentage and set the song to play from that new point.
+ * Scrolling down the mouse wheel while putting the cursor in the progress bar decreases the played length and played percentage and sets the song to play from that new point.
 
- #on clicking on a point of a progress bar it seeks the songs at that particular point.
+ * on clicking on a point of a progress bar it seeks the songs at that particular point.
 
- /* ---------------------------------------------------------------------------
-                    why the modules are used?
- -----------------------------------------------------------------------------*/
-
-#tkinter for GUI's
-
-#mutagen for music file reading
-
-#pygame for music playback
-
-#thread for chiving multi thread
-
-#os for searching and navigating file in a directory
-
-#io module to convert binary file into a image
-
-#PIL is for image resizing for icon used in the application
-
-#random is used for shuffle mode 
-
-#time is used for benchmarking performance of progressbar and for waiting for a while
-
-#-----------------------------------------------------------------------------------
 
